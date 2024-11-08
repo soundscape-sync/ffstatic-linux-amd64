@@ -1,6 +1,6 @@
 //go:build linux && amd64
 
-package ffmpeg
+package ffstatic_windows_amd64
 
 import (
 	_ "embed"
